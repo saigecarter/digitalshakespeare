@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Saige&#x27;s Website</title>
+    <link href="https://saigecarter.github.io/digitalshakespeare/feed.xml" rel="self" />
+    <link href="https://saigecarter.github.io/digitalshakespeare" />
+    <updated>2024-01-24T14:27:23-08:00</updated>
+    <author>
+        <name>Saige Carter</name>
+    </author>
+    <id>https://saigecarter.github.io/digitalshakespeare</id>
+
+    <entry>
+        <title>Meet the Team</title>
+        <author>
+            <name>Saige Carter</name>
+        </author>
+        <link href="https://saigecarter.github.io/digitalshakespeare/meet-the-team.html"/>
+        <id>https://saigecarter.github.io/digitalshakespeare/meet-the-team.html</id>
+
+        <updated>2024-01-24T14:27:23-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Saige Carter Josephine Bruin Joe Bruin
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Saige Carter</h2>
+<figure class="post__image"><img loading="lazy"  src="https://saigecarter.github.io/digitalshakespeare/media/posts/2/1V3A4706.jpg" alt="" width="239" height="230" sizes="100vw" srcset="https://saigecarter.github.io/digitalshakespeare/media/posts/2/responsive/1V3A4706-xs.jpg 300w ,https://saigecarter.github.io/digitalshakespeare/media/posts/2/responsive/1V3A4706-sm.jpg 480w ,https://saigecarter.github.io/digitalshakespeare/media/posts/2/responsive/1V3A4706-md.jpg 768w ,https://saigecarter.github.io/digitalshakespeare/media/posts/2/responsive/1V3A4706-lg.jpg 1024w ,https://saigecarter.github.io/digitalshakespeare/media/posts/2/responsive/1V3A4706-xl.jpg 1360w ,https://saigecarter.github.io/digitalshakespeare/media/posts/2/responsive/1V3A4706-2xl.jpg 1600w"></figure>
+<h2>Josephine Bruin</h2>
+<figure class="post__image"><img loading="lazy"  src="https://media.licdn.com/dms/image/C5603AQET4UEIKYkprA/profile-displayphoto-shrink_800_800/0/1536767916613?e=2147483647&amp;v=beta&amp;t=roZGpspKlrDkMNYUkMwauNW8SGo8icGBs5MkNl_KCtU" alt="Josephine Bruin with her arm up, standing on football field" width="246" height="246" data-is-external-image="true"></figure>
+<h2>Joe Bruin</h2>
+<figure class="post__image"><img loading="lazy"  src="https://mascothalloffame.com/wp-content/uploads/bb-plugin/cache/joe-e1678911953635-circle.jpg" alt="Joe bruin showing off muscles" width="243" height="243" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
